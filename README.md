@@ -2,7 +2,10 @@
 
 # Docker - Google Apps Manager (GAM)
 
-GAM is a command line tool for Google Apps administrators to manage domain and user settings
+[GAM](https://github.com/jay0lee/GAM) is a command line tool for Google Apps administrators to manage domain and user settings
+
+
+* Visit the [Wiki pages](https://github.com/jay0lee/GAM/wiki) for instructions and examples
 
 ---
 
@@ -50,6 +53,11 @@ docker run -it --rm \
 ```
 
 ---
+
+## Installation
+
+No installation is required beyond running the Docker commands and generating your credential files.
+See the [detailed instruction page](https://github.com/jay0lee/GAM/wiki/CreatingClientSecretsFile) on how to create them. 
 
 ## License
 
