@@ -13,7 +13,7 @@
 
 ### Supported tags and Dockerfile
 
-- `latest` [(Dockerfile)](https://github.com/42BV/dockerized/blob/master/gam/Dockerfile)
+- `latest` [(Dockerfile)](https://github.com/42BV/docker-gam/blob/master/Dockerfile)
 
 
 ### Pull  
@@ -28,7 +28,7 @@ docker pull 42bv/gam:latest
 Clone the repository:
 ```
 git clone git@github.com:42BV/docker-gam.git
-cd dockerized/gam
+cd docker-gam
 ```
 
 Build the current Dockerfile  and tag the image:   
@@ -61,4 +61,4 @@ See the [detailed instruction page](https://github.com/jay0lee/GAM/wiki/Creating
 
 ## License
 
-Released under the [MIT license](https://github.com/42BV/dockerized/blob/master/gam/LICENSE.md).
+Released under the [MIT license](https://github.com/42BV/docker-gam/blob/master/LICENSE.md).
